@@ -1,14 +1,14 @@
-# SuperFast 🔥 DevilTagAllBot
+# SuperFast 🔥 𝙽𝚊𝚟𝚢𝚊TagAllBo𝚃
 
 
 <p align="center">
     𝗦𝗨𝗣𝗣𝗢𝗥𝗧 𝗔𝗡𝗗 𝗨𝗣𝗗𝗔𝗧𝗘𝗦🎑
 
-<p align="center"><a href="https://t.me/JaiHindChatting"><img align="center" src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram">
+<p align="center"><a href="https://t.me/TAG_FBAN"><img align="center" src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram">
 </p>
-<p align="center"><a href="https://t.me/RYMOFFICIAL"><img align="center" src="https://img.shields.io/badge/Join-Official%20Channel-blue.svg?style=for-the-badge&logo=Telegram">
+<p align="center"><a href="https://t.me/PTRAKAAR"><img align="center" src="https://img.shields.io/badge/Join-Official%20Channel-blue.svg?style=for-the-badge&logo=Telegram">
 </p>
-<p align="center"><a href="https://t.me/JaiHindChatting"><img src="https://telegra.ph/file/06bab8d2aca8660c3b487.jpg" width="300"></a></p>
+<p align="center"><a href="https://t.me/NAVYA_DISCUS"><img src="https://te.legra.ph/file/1b99b29043777af4e3898.jpg" width="300"></a></p>
 
 
 <p align="center">
