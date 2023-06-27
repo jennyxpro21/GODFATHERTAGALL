@@ -111,7 +111,7 @@ async def all(event):
 @client.on(events.NewMessage(pattern="^/cancel$"))
 async def cancel_spam(event):
   if not event.chat_id in spam_chats:
-    return await event.respond('__There Is No Proccess On Going @tag_fban)
+    return await event.respond('__There Is No Proccess On Going @tag_fban')
   else:
     try:
       spam_chats.remove(event.chat_id)
